@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26384'
     url: http://www.gutenberg.org/2009/agents/26384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24303#The-Philadelphia-Magazines-and-their-Contributors-1741-1850
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
 identifiers:
